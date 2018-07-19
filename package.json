@@ -4,7 +4,7 @@
   "description": "I18n version of fact skill.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Ok: test completed\""
+    "test": "echo \"error: failed test \" && exit 1" 
   },
   "keywords": [
     "alexa",
